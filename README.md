@@ -190,7 +190,7 @@ Este módulo es utilizado por usuarios que desean reservar espacios para eventos
 # 📂 Estructura del proyecto
 
 ```bash
-event-properties-rental-system/
+PlataformadeRentaEspaciosEventos/
 │
 ├── admin/                    # Panel administrativo
 ├── owner/                    # Módulo propietario
@@ -224,7 +224,7 @@ event-properties-rental-system/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/event-properties-rental-system.git
+git clone https://github.com/isairey/PlataformadeRentaEspaciosEventos.git
 ```
 
 ---
@@ -234,7 +234,7 @@ git clone https://github.com/isairey/event-properties-rental-system.git
 Copiar proyecto hacia:
 
 ```bash
-xampp/htdocs/event-properties-rental-system/
+xampp/htdocs/PlataformadeRentaEspaciosEventos/
 ```
 
 ---
@@ -283,7 +283,7 @@ define('DB_NAME','event_properties_rental');
 Abrir:
 
 ```bash
-http://localhost/event-properties-rental-system/
+http://localhost/PlataformadeRentaEspaciosEventos/
 ```
 
 ---
