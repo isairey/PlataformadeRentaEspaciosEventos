@@ -315,33 +315,6 @@ http://localhost/PlataformadeRentaEspaciosEventos/
 - Confirmaciones automáticas
 - Historial de reservas
 
----
-
-# 📸 Vista previa
-
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 🎉 Página principal
-![Home](https://dummyimage.com/1200x600/4a148c/ffffff&text=Event+Rental+Home)
-
-### 🔐 Inicio de sesión
-![Login](https://dummyimage.com/1200x600/6a1b9a/ffffff&text=Login+System)
-
-### 🏢 Listado de propiedades
-![Properties](https://dummyimage.com/1200x600/7b1fa2/ffffff&text=Event+Properties)
-
-### 📅 Gestión de reservaciones
-![Reservations](https://dummyimage.com/1200x600/8e24aa/ffffff&text=Reservations+Management)
-
-### 👥 Panel administrativo
-![Admin](https://dummyimage.com/1200x600/4a148c/ffffff&text=Admin+Dashboard)
-
-### 📊 Dashboard del sistema
-![Dashboard](https://dummyimage.com/1200x600/6a1b9a/ffffff&text=System+Dashboard)
-
-</div>
 
 ---
 
